@@ -1,0 +1,6 @@
+{
+  "name": "Portal do Patrimônio e Turismo de Nísia Floresta",
+  "description": "Guia cultural, memorial e plano de desenvolvimento do turismo sustentável em Nísia Floresta (RN) — patrimônio histórico, literatura, rotas e belezas naturais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
